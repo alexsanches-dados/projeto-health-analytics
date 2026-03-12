@@ -12,7 +12,7 @@ Extração e tratamento de dados brutos utilizando queries complexas para criaç
 
 ### 2. Arquitetura e Modelagem (Star Schema)
 Implementação de modelagem multidimensional para garantir performance analítica e integridade referencial.
-![Modelagem](./02_modelage_m_star_schema.png)
+![Modelagem Star Schema](./02_modelage_m_star_schema.png)
 
 ### 3. Tratamento e ETL (Power Query)
 Limpeza, padronização e tipagem de dados através do Power Query.
