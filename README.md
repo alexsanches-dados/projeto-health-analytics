@@ -48,6 +48,8 @@ O design foi desenvolvido com foco em usabilidade corporativa:
 * **Power BI** (Visualização e DAX)
 * **Power Query** (M - ETL)
 
+* Os dados utilizados neste projeto são fictícios, desenvolvidos para fins de demonstração técnica de habilidades em SQL, Modelagem e Power BI, respeitando as boas práticas de privacidade e proteção de dados.
+
 ---
 
 ## 👤 Autor
